@@ -1,2 +1,2 @@
 # Python
-Aqui eu posto todos os meus códigos que estou utilizando/testando.
+Aqui eu posto todos os meus códigos que eu estou utilizando/testando.
